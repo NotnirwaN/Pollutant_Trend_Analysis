@@ -1,0 +1,6 @@
+ee                  0.1.367
+geemap              0.25.0
+geopandas           0.13.2
+matplotlib          3.7.2
+numpy               1.26.0
+pandas              2.1.2
